@@ -1,1 +1,1 @@
-echo 'Test Pull GitLab'
+echo 'Test Delete'
